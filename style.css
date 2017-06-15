@@ -1,0 +1,98 @@
+body
+{
+	
+	width: 960px;
+	margin-left: 121px;
+	background-color: #777;
+}
+
+
+
+
+#header{
+	font-family: Arial;
+	text-align: center;
+	margin: 10px 40px 2px 40px;
+	padding: 36px 40px 36px 40px;
+	clear: both;
+	background-color: #ebebeb;
+	color: #777;
+}
+
+#nav
+{
+	font-family: Arial;
+	text-align: center;
+	margin: 11px 40px 20px 40px;
+	padding: 36px 40px 36px 40px;
+	clear: both;
+	background-color: #ebebeb;
+	color: #777;
+}
+
+#section
+{
+	text-align: center;
+	font-family: Arial;
+	float: left;
+	margin: 1px 10px 10px 41px;
+	padding: 32px 1px 5px 1px;
+	background-color: #ebebeb;
+	color: #777;
+}
+
+#article
+{
+	text-align: center;
+	font-family: Arial;
+	margin: 19px 10px 20px 10px;
+	padding: 17px 11px 10px 11px;
+	color: #ebebeb;
+	background-color: #777;
+
+
+}
+
+#h1-h3
+{
+	text-align: center;
+	font-family: Arial;
+	margin: 17px 10px 10px 10px;
+	padding: 20px 200px 20px 200px;	
+	background-color: #ebebeb;
+	color: #777;
+	font-size: 20px;
+}
+
+#p
+{
+	text-align: center;
+	font-family: Arial;
+	margin: 10px 10px 20px 10px;
+	padding: 20px 200px 20px 200px;	
+	background-color: #ebebeb;
+	color: #777;
+}
+
+#aside
+{
+	text-align: center;
+	font-family: Arial;
+	float: left;
+	margin: 1px 0px 10px 2px;
+	padding: 40px 142px 251px 146px;
+	background-color: #ebebeb;
+	color: #777;
+}
+
+#footer
+
+{
+	font-family: Arial;
+	text-align: center;
+	margin: 15px 40px 2px 40px;
+	padding: 36px 40px 36px 40px;
+	clear: both;
+	background-color: #ebebeb;
+	color: #777;
+}
